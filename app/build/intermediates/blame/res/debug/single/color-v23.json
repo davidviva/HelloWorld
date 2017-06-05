@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/wuyan/GitHub/HelloWorld/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/wuyan/.android/build-cache/ce18ca5c2f4510c18b3d0dd2f1afa1757da1f0f6/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/wuyan/GitHub/HelloWorld/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/wuyan/.android/build-cache/ce18ca5c2f4510c18b3d0dd2f1afa1757da1f0f6/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/wuyan/GitHub/HelloWorld/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/wuyan/.android/build-cache/ce18ca5c2f4510c18b3d0dd2f1afa1757da1f0f6/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/wuyan/GitHub/HelloWorld/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/wuyan/.android/build-cache/ce18ca5c2f4510c18b3d0dd2f1afa1757da1f0f6/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/wuyan/GitHub/HelloWorld/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/wuyan/.android/build-cache/ce18ca5c2f4510c18b3d0dd2f1afa1757da1f0f6/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/wuyan/GitHub/HelloWorld/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/wuyan/.android/build-cache/ce18ca5c2f4510c18b3d0dd2f1afa1757da1f0f6/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/wuyan/GitHub/HelloWorld/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/wuyan/.android/build-cache/ce18ca5c2f4510c18b3d0dd2f1afa1757da1f0f6/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/wuyan/GitHub/HelloWorld/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/wuyan/.android/build-cache/ce18ca5c2f4510c18b3d0dd2f1afa1757da1f0f6/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/wuyan/GitHub/HelloWorld/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/wuyan/.android/build-cache/ce18ca5c2f4510c18b3d0dd2f1afa1757da1f0f6/output/res/color-v23/abc_tint_default.xml"
+    }
+]
